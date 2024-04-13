@@ -1,0 +1,17 @@
+<b>The round has ended!</b>
+[ SCP WIN ]
+[ NTF WIN ]
+[ CHAOS WIN ]
+[ NOONE WIN ]
+Furries, are ppl. Accept them! 
+Game Over
+My favorite food is fried chicken.
+People are stupid.
+[<color=#FF8E00>🏃</color>] [summary_d_escaped] <color=#FF8E00>Class D</color> escaped
+[<color=#FFFF7C>🏃</color>] [summary_s_escaped] <color=#FFFF7C>Card guy(s)</color> escaped
+Alpha Warhead status: [<color=red>💥</color>] <color=orange>DETONATED</color> [<color=red>💥</color>] & killed [summary_warhead_kills] things.
+Alpha Warhead status: <color=#228B22>NOT DETONATED</color>
+Time: [summary_round_minutes]:[summary_round_seconds]
+[summary_scp_terminated] ded <color=red>SCPs</color>
+Next round in [summary_next_round_countdown].
+The <color=red>SCPs</color> killed [summary_scpfrags] humans.

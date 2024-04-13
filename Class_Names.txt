@@ -1,0 +1,22 @@
+<color=#8c0c0c>SCP-</color><color=#ec2222>173</color>
+<color=#ff8e00>D Boi</color>
+<color=#d2d4c1>Spectator</color>
+<color=#8c0c0c>SCP-</color><color=#ec2222>106</color>
+<color=#007fd8>MTF</color> <color=#0073c4>Specialist</color>
+<color=#8c0c0c>SCP-</color><color=#ec2222>049</color>
+<color=#f2f200>Scientist</color>
+<color=#8c0c0c>SCP-</color><color=#ec2222>079</color>
+
+<color=#8c0c0c>SCP-</color><color=#ec2222>096</color>
+<color=#8c0c0c>SCP-</color><color=#ec2222>049-2</color>
+<color=#007fd8>MTF</color> <color=#0073c4>Sergeant</color>
+<color=#007fd8>MTF</color> <color=#0073c4>Capitan</color>
+<color=#007fd8>MTF</color> <color=#0073c4>Private</color>
+<color=#ff23b4>Tutorial</color>
+<color=#5b6370>Guard</color>
+<color=#8c0c0c>SCP-</color><color=#ec2222>939</color>
+-
+<color=#008f1c>C.I.</color> <color=#0d7d35 >Rifleman</color>
+<color=#008f1c>C.I.</color> <color=#0d7d35 >Maurdarer</color>
+<color=#008f1c>C.I.</color> <color=#0d7d35 >Repressor</color>
+<color=#8c0c0c>SCP-</color><color=#ec2222>3114</color>

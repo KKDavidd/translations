@@ -1,0 +1,35 @@
+It's <color=#ff80bc><b>[user]</b>'s</color> body - they were [class]!\n Observation: [cause]
+Recontained.
+Caused By: <color=#f5650a>Failure to evacuate in time.</color>
+Caused by: <color=#e52121>SCP-049</color>
+Caused By: <color=#f5650a>Left the game.</color>
+Caused by: <color=#2092a1>Tesla Gate</color>
+Caused by: <color=#e52121>SCP-3114</color>
+Caused by: <color=#e52121>SCP-939</color>
+Caused by: <color=#e52121>SCP-330</color>
+Caused by: <color=#2092a1>Falling down.</color>
+Caused by: <color=#2092a1>You have fallen down.</color>
+Caused By: <color=#f5650a>Spending too much time within the dark maze.</color>
+Caused By: Failure to evacuate from <color=#e52121>L.C.Z.</color>
+Caused By: <color=#F5650A>Poision Ingestion.</color>
+Caused by: <color=#e52121>SCP-207</color> X <color=#e52121>SCP-1853</color>
+Caused By: <color=#e52121>SCP-207</color>
+Caused By: <color=#e52121>SCP-207</color>
+Caused By: <color=#e52121>SCP-330</color>
+Caused by: <color=#2092a1>Tesla Gate</color>
+Caused by: <color=#5180f7>High Explosive Grenade</color>/<color=#ff80bc>Funny</color>
+Caused by: <color=#5180f7>High Explosive Grenade</color>/<color=#ff80bc>Funny</color>
+Caused By: <color=#e52121>SCP-096</color>
+Caused By: <color=#e52121>SCP-173</color>
+Caused By: <color=#e52121>SCP-939</color>
+Caused By: <color=#e52121>SCP-049-2</color>
+[ammotype] bullet wounds.
+Caused By: <color=#e52121>Falling down in machinery</color>
+Signs of severe trauma to both femur bones suggests death by circulatory shock.
+You've been sacrificed to recontain SCP-106.
+Automatically killed for friendly fire.
+Caused By: <color=#E52121>SCP-244</color>
+Caused By: <color=#E52121>SCP-244</color>
+Caused By: <color=#e52121>SCP-939</color>
+Caused By: <color=#70C3FF> Marshmallow Man</color>
+Killed by a falling metal pipe.

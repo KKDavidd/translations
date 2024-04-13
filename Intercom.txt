@@ -1,0 +1,8 @@
+<color=#00FF00>GO AHEAD YAP</color>
+<color=#00FF00>TRANSMITTING...</color>\nYapping left::<color=#FFFF00> {0}</color>
+<color=#00FF00>TRANSMITTING...</color>\n<color=#00FFFF>YAPPIN' Mode</color>
+<color=#FF0000>RESTARTING...</color>\n<color=#FFFF00>{0}</color>
+<color=#FF0000>ADMIN</color> IS USING\nTHE INTERCOM NOW
+<color=#808080>Mew don't speak</color> BY <color=#FF0000>Upper management</color>
+IDK
+<color=yellow>STARTING...</color>

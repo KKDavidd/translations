@@ -1,0 +1,25 @@
+None
+<color=#DC143C>Peanut</color>
+<color=#FF8E00>D Boi</color>
+Spectator
+<color=#DC143C>Larry</color>
+<color=#70C3FF>Specialist</color>
+<color=#DC143C>Dr.Doctor</color> 
+<color=#FFFF7C>Scientist</color>
+<color=#DC143C>PC</color>
+<color=#007519>D Boi lvl.2</color>
+<color=#DC143C>Cry Man</color>
+<color=#DC143C>Zombie</color>
+<color=#0096FF>Sergeant</color>
+<color=#003DCA>Captian</color>
+<color=#70C3FF>Private</color>
+<color=#ff00b0>Uhh Ohh</color>
+<color=#5B6370>Guard</color>
+<color=#DC143C>Doggy</color>
+Custom Role
+<color=#008F1C>AK Man</color>
+<color=#0D7D35>Shotgun Man</color>
+<color=#006826>Logicer Man</color>
+Overwatch
+<color=#363636>Film</color>
+<color=#DC143C>Skelly Boi</color>

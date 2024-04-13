@@ -1,0 +1,44 @@
+VOICE VOLUME
+Yes
+FORCE START
+SCP-106 RE-CONTAINMENT\nPROCEDURE OVERRIDE
+Australian mode
+SUMMARY
+Cancel
+I N V
+BRIGHTNESS
+SETTINGS
+DISCONNECT
+ALPHA WARHEAD IS DISABLED
+ACCESS DENIED
+VOICE CHAT
+INVENTORY OVERLOAD
+MOUSE SENSITIVITY
+HACKING
+PICKING UP...
+Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
+[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
+Locked by PC
+Fullscreen mode
+Are you sure?
+Basic options. Full list of settings in the menu.
+🕒\nWAITING FOR PLAYERS
+SUMMARY
+CONTINUE
+MAIN VOLUME
+👤
+✪ ESCAPED THE FACILITY
+✪ ESCAPED THE FACILITY
+YOU ARE
+TIME: [escape_minutes]:[escape_seconds]
+[time]s cooldown on [item].
+Banana.
+You have been enslaved. \n<size=40>You are fucked.</size>
+D Boi -> NTF
+Scientist -> Chaos
+\n\nROUND STARTS IN: <color=yellow>{0}</color>s
+\n\nROUND START IS <color=#FF5050>🔒</color>
+AIMING SENS. REDUCTION
+Press [key] to cancel the throw.
+ADS Toggle
+Mute Spectator Chat

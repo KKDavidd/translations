@@ -1,0 +1,12 @@
+Unlocked skin: [role_name].
+To attac GTFU of ya skin. Hold [key] to tear off skin.
+Nuh-uh.
+Press [key] to speak.
+This guy was used, too late :c.
+You are skinned. Hold [key] to unskin yourself.
+No, this isn't a human.
+This is <b>[player_name]</b>.
+Lootbox for: [role].
+Skin
+Chokehold cooldown
+You are a Spooky scary skeleton. 
